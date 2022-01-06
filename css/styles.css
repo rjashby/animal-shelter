@@ -1,27 +1,36 @@
 body {
   background-color: wheat;
+  margin: 20px;
+}
+
+div {
+  font-family: monospace;
+  border: solid black 5px;
+  padding: 8px;
+  width: 400px;
+  box-sizing: border-box;
 }
 
 img {
-  width: 100%
+  width: 100%;
 }
 
 .column1 {
-  width: 400px;
+  
 }
 
 .column2 {
-  width: 400px;
+  
 }
 
 .column3 {
-  width: 400px;
+  
 }
 
 .column4 {
-  width: 400px;
+  
 }
 
 .column5 {
-  width: 400px;
+  
 }
