@@ -1,5 +1,5 @@
 body {
-  background-color: wheat;
+  background-color: yellow;
   margin: 20px;
 }
 
@@ -7,8 +7,17 @@ div {
   font-family: monospace;
   border: solid black 5px;
   padding: 8px;
-  width: 400px;
+  width: 19%;
   box-sizing: border-box;
+  float: left;
+}
+
+.sub {
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
 }
 
 img {
@@ -16,21 +25,23 @@ img {
 }
 
 .column1 {
-  
+  border: 4mm ridge rgba(170, 50, 220, .6);
 }
 
 .column2 {
-  
+  border: 4mm ridge rgba(50, 220, 73, 0.6);
 }
 
 .column3 {
-  
+  border: 4mm ridge rgba(219, 90, 30, 0.6);
 }
 
 .column4 {
-  
+  border: 4mm ridge rgba(22, 18, 238, 0.6);
+
 }
 
 .column5 {
-  
+  border: 4mm ridge rgba(223, 219, 29, 0.6);
+
 }
